@@ -1,5 +1,5 @@
 
-// var _currentUser = user.name;
+// var _currentUser = ngocloc2008;
 // var _authenUser;
 // var _checkUser = false;
 // $.get('https://raw.githubusercontent.com/ngocloc2008/lol-game-win/master/user.txt', function (data, status) {}).done(function (data) {
