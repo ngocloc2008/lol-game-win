@@ -2,7 +2,7 @@
 // var _currentUser = user.name;
 // var _authenUser;
 // var _checkUser = false;
-// $.get('https://raw.githubusercontent.com/mhqbdiceplayer/luckygames_baomai/master/user1.txt', function (data, status) {}).done(function (data) {
+// $.get('https://raw.githubusercontent.com/ngocloc2008/lol-game-win/master/user.txt', function (data, status) {}).done(function (data) {
 	// _authenUser = JSON.parse(data);
 	// for (i = 0; i < _authenUser.length; i++)
 		// if (_authenUser[i] == _currentUser)
